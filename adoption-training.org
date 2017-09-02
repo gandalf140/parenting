@@ -249,3 +249,8 @@
 ** Stress and mental illness: post-traumatics stress disorder and depression
 ** Stress and behavior
 ** Stress and working during pregnancy
+* Fetal alcohol syndrome
+** Definitions
+   - fetal alcohol syndrome (FAS) is a pattern of mental and physical defects
+     that can develop in a fetus in association with high levels of alcohol
+     consumption during pregnancy
