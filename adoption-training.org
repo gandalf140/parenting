@@ -254,3 +254,4 @@
    - fetal alcohol syndrome (FAS) is a pattern of mental and physical defects
      that can develop in a fetus in association with high levels of alcohol
      consumption during pregnancy
+* Adoption history
