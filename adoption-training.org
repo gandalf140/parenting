@@ -371,3 +371,16 @@
    - drugs do not strongly impair usually but may cause subtle issues
    - cocaine can cause symptoms similar to ADHD
    - hard to know precisely what effects will be
+* Sensory Integration Disorder
+** What is sensory integration?
+   - coordination and interpretation of visual, auditory, tactile, kinesthetic,
+     vestibular (movement and sense of balance) and proprioceptive information
+     (sense of one's body position in space)
+   - sensory information processed at four levels:
+     - registration (detection of stimuli from body or environment)
+     - modulation (matching arousal, attention and activity level to demands of
+       environment without being distracted by irrelvant sensory input)
+     - discrimination (identification of temporal and spatial characteristics of
+       sensory information and recognition of meaning)
+     - praxis (developing and carrying out motor plan for interaction with
+       environment)
